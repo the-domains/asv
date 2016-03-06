@@ -1,4 +1,4 @@
-name: asv
+name: VILLAIN SPORTS
 favicon: null
 layout_spectrum: 0.57547358982265
 typography_spectrum: 0.8014329129364341
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#1c1c1c'
+    - '#d0d0d0'
+    - '#515151'
+    - '#898989'
   brandStrength: 0.5468345095869154
   lightness: 0.4338563638739288
   saturation: 0.9510679629165679
